@@ -7,8 +7,8 @@ import shutil
 
 def main():
     # define the source and destination directory
-    src_dir_json = 'sparrow-ui/docs/json/key'
-    src_dir_img = 'sparrow-ui/docs/images'
+    src_dir_json = 'sparrow-ui/donut/docs/json/key'
+    src_dir_img = 'sparrow-ui/donut/docs/images'
     dst_dir_json = 'sparrow-data/donut/docs/models/donut/data/key'
     dst_dir_img = 'sparrow-data/donut/docs/models/donut/data/key/img'
 
