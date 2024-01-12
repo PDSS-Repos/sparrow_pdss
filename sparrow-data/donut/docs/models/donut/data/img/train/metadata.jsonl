@@ -1,0 +1,7 @@
+{"ground_truth": "{\"gt_parse\": {\"certificate_of_origin\": \"CERTIFICATE OF ORIGIN\"}}", "file_name": "certificate_of_origin_test10.jpg"}
+{"ground_truth": "{\"gt_parse\": {\"certificate_of_origin\": \"CERTIFICATE OF ORIGIN\", \"bill_of_lading_number\": \"YMALUW125330344\", \"importer_consignee\": \"BROTEX VETNAM) CO. LTD., LOT 34-6, D11 STREET, PHUOC DONG IP, PHUOC DONG COMMUNE GO DAU DISTRICT, TAY NINH PROVINCE, VIETNAM\", \"gross_weight_kgs\": \"387422.0001 KG\", \"cotton_origin\": \"BALES OF AMERCAN RAW COTTON\", \"net_weight_kgs\": \"TOTAL NET KGS: 385,693\", \"number_of_bales\": \"1671\", \"invoice_date\": \"26th day of March, 2020\"}}", "file_name": "certificate_of_origin_test2.jpg"}
+{"ground_truth": "{\"gt_parse\": {\"certificate_of_origin\": \"CERTIFICATE OF ORIGIN\"}}", "file_name": "certificate_of_origin_test3.jpg"}
+{"ground_truth": "{\"gt_parse\": {\"certificate_of_origin\": \"CERTIFICATE OF ORIGIN\"}}", "file_name": "certificate_of_origin_test4.jpg"}
+{"ground_truth": "{\"gt_parse\": {\"certificate_of_origin\": \"CERIFICATE OF ORIGIN\"}}", "file_name": "certificate_of_origin_test5.jpg"}
+{"ground_truth": "{\"gt_parse\": {\"certificate_of_origin\": \"CERTIFICATE OF ORIGIN\"}}", "file_name": "certificate_of_origin_test6.jpg"}
+{"ground_truth": "{\"gt_parse\": {\"certificate_of_origin\": \"CERTIFICATE OF ORIGIN\"}}", "file_name": "certificate_of_origin_test7.jpg"}

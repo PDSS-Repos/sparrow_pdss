@@ -10,1614 +10,1594 @@
   },
   "words": [
     {
-      "value": "CERTIFICATE",
-      "label": "",
       "rect": {
-        "x1": 278,
-        "y1": 64,
-        "x2": 343,
-        "y2": 76
-      }
-    },
-    {
-      "value": "OF",
-      "label": "",
-      "rect": {
-        "x1": 341,
+        "x1": 277,
         "y1": 63,
-        "x2": 358,
-        "y2": 77
-      }
-    },
-    {
-      "value": "ORIGIN",
-      "label": "",
-      "rect": {
-        "x1": 356,
-        "y1": 64,
         "x2": 393,
         "y2": 77
-      }
+      },
+      "value": "CERTIFICATE OF ORIGIN",
+      "label": "certificate_of_origin"
     },
     {
-      "value": "COPY",
-      "label": "",
       "rect": {
         "x1": 256,
         "y1": 81,
         "x2": 408,
-        "y2": 130
-      }
+        "y2": 129
+      },
+      "value": "COPY",
+      "label": ""
     },
     {
-      "value": "WE,",
-      "label": "",
       "rect": {
         "x1": 35,
         "y1": 91,
         "x2": 57,
         "y2": 103
-      }
+      },
+      "value": "WE,",
+      "label": ""
     },
     {
-      "value": "ALLENBERG",
-      "label": "",
       "rect": {
         "x1": 55,
         "y1": 91,
         "x2": 113,
         "y2": 103
-      }
+      },
+      "value": "ALLENBERG",
+      "label": ""
     },
     {
-      "value": "DUTTON",
-      "label": "",
       "rect": {
         "x1": 112,
         "y1": 92,
         "x2": 151,
         "y2": 103
-      }
+      },
+      "value": "DUTTON",
+      "label": ""
     },
     {
-      "value": "CO.",
-      "label": "",
       "rect": {
         "x1": 150,
         "y1": 91,
         "x2": 168,
         "y2": 103
-      }
+      },
+      "value": "CO.",
+      "label": ""
     },
     {
-      "value": "A",
-      "label": "",
       "rect": {
         "x1": 165,
         "y1": 91,
         "x2": 177,
         "y2": 103
-      }
+      },
+      "value": "A",
+      "label": ""
     },
     {
-      "value": "DIVISION",
-      "label": "",
       "rect": {
         "x1": 175,
         "y1": 91,
         "x2": 219,
         "y2": 103
-      }
+      },
+      "value": "DIVISION",
+      "label": ""
     },
     {
-      "value": "OF",
-      "label": "",
       "rect": {
         "x1": 216,
         "y1": 90,
         "x2": 234,
         "y2": 104
-      }
+      },
+      "value": "OF",
+      "label": ""
     },
     {
-      "value": "LOUIS",
-      "label": "",
       "rect": {
         "x1": 231,
         "y1": 91,
         "x2": 262,
         "y2": 103
-      }
+      },
+      "value": "LOUIS",
+      "label": ""
     },
     {
-      "value": "FOLLOWING",
-      "label": "",
       "rect": {
         "x1": 37,
         "y1": 102,
         "x2": 94,
         "y2": 115
-      }
+      },
+      "value": "FOLLOWING",
+      "label": ""
     },
     {
-      "value": "MENTIONED",
-      "label": "",
       "rect": {
         "x1": 93,
         "y1": 102,
         "x2": 151,
         "y2": 115
-      }
+      },
+      "value": "MENTIONED",
+      "label": ""
     },
     {
-      "value": "GOODS:",
-      "label": "",
       "rect": {
         "x1": 150,
         "y1": 102,
-        "x2": 187,
+        "x2": 188,
         "y2": 115
-      }
+      },
+      "value": "GOODS:",
+      "label": ""
     },
     {
-      "value": "TOTAL",
-      "label": "",
       "rect": {
         "x1": 37,
         "y1": 127,
         "x2": 69,
         "y2": 138
-      }
+      },
+      "value": "TOTAL",
+      "label": ""
     },
     {
-      "value": "BALE",
-      "label": "",
       "rect": {
         "x1": 69,
         "y1": 127,
         "x2": 95,
         "y2": 138
-      }
+      },
+      "value": "BALE",
+      "label": ""
     },
     {
-      "value": "QUANTITY:",
-      "label": "",
       "rect": {
         "x1": 94,
         "y1": 126,
         "x2": 146,
         "y2": 139
-      }
+      },
+      "value": "QUANTITY:",
+      "label": ""
     },
     {
-      "value": "1055",
-      "label": "",
       "rect": {
         "x1": 156,
         "y1": 125,
         "x2": 180,
         "y2": 138
-      }
+      },
+      "value": "1055",
+      "label": ""
     },
     {
-      "value": "CORDOVA,",
-      "label": "",
       "rect": {
         "x1": 411,
         "y1": 91,
         "x2": 460,
         "y2": 103
-      }
+      },
+      "value": "CORDOVA,",
+      "label": ""
     },
     {
-      "value": "TENNESSEE,",
-      "label": "",
       "rect": {
         "x1": 458,
         "y1": 91,
-        "x2": 516,
+        "x2": 515,
         "y2": 103
-      }
+      },
+      "value": "TENNESSEE,",
+      "label": ""
     },
     {
-      "value": "DECLARE",
-      "label": "",
       "rect": {
         "x1": 515,
         "y1": 91,
         "x2": 560,
         "y2": 103
-      }
+      },
+      "value": "DECLARE",
+      "label": ""
     },
     {
-      "value": "THAT",
-      "label": "",
       "rect": {
         "x1": 558,
         "y1": 91,
         "x2": 587,
         "y2": 103
-      }
+      },
+      "value": "THAT",
+      "label": ""
     },
     {
-      "value": "THE",
-      "label": "",
       "rect": {
-        "x1": 584,
+        "x1": 583,
         "y1": 91,
-        "x2": 607,
+        "x2": 606,
         "y2": 103
-      }
+      },
+      "value": "THE",
+      "label": ""
     },
     {
-      "value": "DESCRIPTION",
-      "label": "",
       "rect": {
         "x1": 37,
         "y1": 149,
         "x2": 100,
         "y2": 161
-      }
+      },
+      "value": "DESCRIPTION",
+      "label": ""
     },
     {
-      "value": "OF",
-      "label": "",
       "rect": {
         "x1": 98,
         "y1": 148,
         "x2": 115,
         "y2": 162
-      }
+      },
+      "value": "OF",
+      "label": ""
     },
     {
-      "value": "GOODS",
-      "label": "",
       "rect": {
         "x1": 113,
         "y1": 150,
         "x2": 146,
         "y2": 160
-      }
+      },
+      "value": "GOODS",
+      "label": ""
     },
     {
-      "value": "SHIPPED:",
-      "label": "",
       "rect": {
         "x1": 146,
         "y1": 150,
         "x2": 189,
         "y2": 160
-      }
+      },
+      "value": "SHIPPED:",
+      "label": ""
     },
     {
-      "value": "AMERICAN",
-      "label": "",
       "rect": {
         "x1": 195,
         "y1": 150,
         "x2": 245,
         "y2": 160
-      }
+      },
+      "value": "AMERICAN",
+      "label": ""
     },
     {
-      "value": "RAW",
-      "label": "",
       "rect": {
         "x1": 246,
         "y1": 150,
         "x2": 271,
         "y2": 160
-      }
+      },
+      "value": "RAW",
+      "label": ""
     },
     {
-      "value": "COTTON",
-      "label": "",
       "rect": {
         "x1": 269,
         "y1": 150,
         "x2": 309,
         "y2": 160
-      }
+      },
+      "value": "COTTON",
+      "label": ""
     },
     {
-      "value": "WE",
-      "label": "",
       "rect": {
         "x1": 36,
         "y1": 173,
         "x2": 55,
         "y2": 184
-      }
+      },
+      "value": "WE",
+      "label": ""
     },
     {
-      "value": "ATTEST",
-      "label": "",
       "rect": {
         "x1": 54,
         "y1": 174,
         "x2": 91,
         "y2": 184
-      }
+      },
+      "value": "ATTEST",
+      "label": ""
     },
     {
-      "value": "THE",
-      "label": "",
       "rect": {
         "x1": 89,
         "y1": 172,
         "x2": 112,
         "y2": 185
-      }
+      },
+      "value": "THE",
+      "label": ""
     },
     {
-      "value": "GOODS",
-      "label": "",
       "rect": {
         "x1": 111,
         "y1": 172,
         "x2": 145,
         "y2": 185
-      }
+      },
+      "value": "GOODS",
+      "label": ""
     },
     {
-      "value": "ARE",
-      "label": "",
       "rect": {
         "x1": 143,
         "y1": 172,
         "x2": 166,
         "y2": 185
-      }
+      },
+      "value": "ARE",
+      "label": ""
     },
     {
-      "value": "OF",
-      "label": "",
       "rect": {
-        "x1": 164,
+        "x1": 165,
         "y1": 173,
         "x2": 179,
         "y2": 184
-      }
+      },
+      "value": "OF",
+      "label": ""
     },
     {
-      "value": "U.S.A.",
-      "label": "",
       "rect": {
         "x1": 177,
         "y1": 172,
         "x2": 205,
         "y2": 185
-      }
+      },
+      "value": "U.S.A.",
+      "label": ""
     },
     {
-      "value": "ORIGIN",
-      "label": "",
       "rect": {
         "x1": 203,
         "y1": 172,
         "x2": 239,
         "y2": 185
-      }
+      },
+      "value": "ORIGIN",
+      "label": ""
     },
     {
-      "value": "GROSS",
-      "label": "",
       "rect": {
         "x1": 36,
         "y1": 219,
         "x2": 69,
         "y2": 232
-      }
+      },
+      "value": "GROSS",
+      "label": ""
     },
     {
-      "value": "WEIGHT:",
-      "label": "",
       "rect": {
         "x1": 68,
-        "y1": 220,
+        "y1": 219,
         "x2": 109,
         "y2": 230
-      }
+      },
+      "value": "WEIGHT:",
+      "label": ""
     },
     {
-      "value": "545,548LBS.",
-      "label": "",
       "rect": {
         "x1": 116,
         "y1": 219,
-        "x2": 176,
+        "x2": 175,
         "y2": 232
-      }
+      },
+      "value": "545,548LBS.",
+      "label": ""
     },
     {
-      "value": "247,459KGS.",
-      "label": "",
       "rect": {
         "x1": 195,
         "y1": 219,
-        "x2": 255,
+        "x2": 256,
         "y2": 232
-      }
+      },
+      "value": "247,459KGS.",
+      "label": ""
     },
     {
-      "value": "PORT",
-      "label": "",
       "rect": {
         "x1": 37,
-        "y1": 242,
+        "y1": 243,
         "x2": 65,
         "y2": 255
-      }
+      },
+      "value": "PORT",
+      "label": ""
     },
     {
-      "value": "OF",
-      "label": "",
       "rect": {
-        "x1": 62,
+        "x1": 63,
         "y1": 241,
         "x2": 79,
         "y2": 255
-      }
+      },
+      "value": "OF",
+      "label": ""
     },
     {
-      "value": "LOADING:",
-      "label": "",
       "rect": {
         "x1": 78,
         "y1": 243,
         "x2": 123,
-        "y2": 253
-      }
+        "y2": 254
+      },
+      "value": "LOADING:",
+      "label": ""
     },
     {
-      "value": "Savannah,",
-      "label": "",
       "rect": {
         "x1": 131,
         "y1": 243,
         "x2": 178,
         "y2": 256
-      }
+      },
+      "value": "Savannah,",
+      "label": ""
     },
     {
-      "value": "GATO:",
-      "label": "",
       "rect": {
         "x1": 178,
-        "y1": 242,
+        "y1": 243,
         "x2": 212,
         "y2": 255
-      }
+      },
+      "value": "GATO:",
+      "label": ""
     },
     {
-      "value": "ICD",
-      "label": "",
       "rect": {
         "x1": 214,
         "y1": 243,
         "x2": 234,
         "y2": 255
-      }
+      },
+      "value": "ICD",
+      "label": ""
     },
     {
-      "value": "SAHNEWALINDIA",
-      "label": "",
       "rect": {
         "x1": 234,
         "y1": 243,
         "x2": 316,
         "y2": 255
-      }
+      },
+      "value": "SAHNEWALINDIA",
+      "label": ""
     },
     {
-      "value": "NOTIFY:",
-      "label": "",
       "rect": {
         "x1": 37,
         "y1": 266,
         "x2": 76,
         "y2": 277
-      }
+      },
+      "value": "NOTIFY:",
+      "label": ""
     },
     {
-      "value": "SPORTKING",
-      "label": "",
       "rect": {
-        "x1": 74,
+        "x1": 73,
         "y1": 266,
-        "x2": 130,
+        "x2": 131,
         "y2": 278
-      }
+      },
+      "value": "SPORTKING",
+      "label": ""
     },
     {
-      "value": "INDIA",
-      "label": "",
       "rect": {
         "x1": 129,
         "y1": 266,
         "x2": 157,
         "y2": 277
-      }
+      },
+      "value": "INDIA",
+      "label": ""
     },
     {
-      "value": "LIMITED",
-      "label": "",
       "rect": {
         "x1": 157,
         "y1": 266,
         "x2": 197,
         "y2": 277
-      }
+      },
+      "value": "LIMITED",
+      "label": ""
     },
     {
-      "value": "UNITESPORTKING",
-      "label": "",
       "rect": {
         "x1": 197,
         "y1": 266,
         "x2": 281,
         "y2": 278
-      }
+      },
+      "value": "UNITESPORTKING",
+      "label": ""
     },
     {
-      "value": "INDUSTRIES).",
-      "label": "",
       "rect": {
         "x1": 282,
         "y1": 266,
         "x2": 343,
         "y2": 279
-      }
+      },
+      "value": "INDUSTRIES).",
+      "label": ""
     },
     {
-      "value": "VILL",
-      "label": "",
       "rect": {
         "x1": 36,
         "y1": 277,
         "x2": 61,
         "y2": 290
-      }
+      },
+      "value": "VILL",
+      "label": ""
     },
     {
-      "value": "JEEDA,",
-      "label": "",
       "rect": {
         "x1": 58,
         "y1": 277,
         "x2": 91,
         "y2": 290
-      }
+      },
+      "value": "JEEDA,",
+      "label": ""
     },
     {
-      "value": "KOTKAPURA",
-      "label": "",
       "rect": {
         "x1": 90,
         "y1": 277,
         "x2": 148,
         "y2": 290
-      }
+      },
+      "value": "KOTKAPURA",
+      "label": ""
     },
     {
-      "value": "ROAD,",
-      "label": "",
       "rect": {
         "x1": 148,
         "y1": 277,
         "x2": 179,
         "y2": 290
-      }
+      },
+      "value": "ROAD,",
+      "label": ""
     },
     {
-      "value": "NH-15",
-      "label": "",
       "rect": {
         "x1": 177,
         "y1": 277,
         "x2": 209,
         "y2": 290
-      }
+      },
+      "value": "NH-15",
+      "label": ""
     },
     {
-      "value": "BATHINDA,",
-      "label": "",
       "rect": {
         "x1": 37,
         "y1": 289,
         "x2": 90,
         "y2": 301
-      }
+      },
+      "value": "BATHINDA,",
+      "label": ""
     },
     {
-      "value": "INDIA",
-      "label": "",
       "rect": {
         "x1": 88,
         "y1": 289,
-        "x2": 119,
+        "x2": 120,
         "y2": 301
-      }
+      },
+      "value": "INDIA",
+      "label": ""
     },
     {
-      "value": "ARE",
-      "label": "",
       "rect": {
         "x1": 36,
         "y1": 331,
         "x2": 60,
-        "y2": 344
-      }
+        "y2": 343
+      },
+      "value": "ARE",
+      "label": ""
     },
     {
-      "value": "THE",
-      "label": "",
       "rect": {
         "x1": 55,
         "y1": 331,
         "x2": 79,
-        "y2": 344
-      }
+        "y2": 343
+      },
+      "value": "THE",
+      "label": ""
     },
     {
-      "value": "PRODUCT",
-      "label": "",
       "rect": {
         "x1": 79,
-        "y1": 332,
+        "y1": 333,
         "x2": 123,
         "y2": 343
-      }
+      },
+      "value": "PRODUCT",
+      "label": ""
     },
     {
-      "value": "OF",
-      "label": "",
       "rect": {
         "x1": 122,
         "y1": 331,
         "x2": 138,
-        "y2": 344
-      }
+        "y2": 343
+      },
+      "value": "OF",
+      "label": ""
     },
     {
-      "value": "THE",
-      "label": "",
       "rect": {
         "x1": 135,
         "y1": 331,
         "x2": 159,
-        "y2": 344
-      }
+        "y2": 343
+      },
+      "value": "THE",
+      "label": ""
     },
     {
-      "value": "UNITED:",
-      "label": "",
       "rect": {
         "x1": 157,
         "y1": 331,
         "x2": 195,
-        "y2": 344
-      }
+        "y2": 343
+      },
+      "value": "UNITED:",
+      "label": ""
     },
     {
-      "value": "STATES",
-      "label": "",
       "rect": {
         "x1": 193,
         "y1": 331,
         "x2": 230,
-        "y2": 344
-      }
+        "y2": 343
+      },
+      "value": "STATES",
+      "label": ""
     },
     {
-      "value": "OF",
-      "label": "",
       "rect": {
         "x1": 228,
         "y1": 331,
         "x2": 245,
-        "y2": 344
-      }
-    },
-    {
-      "value": "AMERICA.",
-      "label": "",
-      "rect": {
-        "x1": 244,
-        "y1": 332,
-        "x2": 289,
         "y2": 343
-      }
+      },
+      "value": "OF",
+      "label": ""
     },
     {
-      "value": "AATugiaf",
-      "label": "",
+      "rect": {
+        "x1": 243,
+        "y1": 333,
+        "x2": 290,
+        "y2": 343
+      },
+      "value": "AMERICA.",
+      "label": ""
+    },
+    {
       "rect": {
         "x1": 340,
         "y1": 362,
         "x2": 496,
         "y2": 402
-      }
+      },
+      "value": "AATugiaf",
+      "label": ""
     },
     {
-      "value": "BY:",
-      "label": "",
       "rect": {
         "x1": 319,
-        "y1": 389,
+        "y1": 388,
         "x2": 339,
         "y2": 403
-      }
+      },
+      "value": "BY:",
+      "label": ""
     },
     {
-      "value": "THE",
-      "label": "",
       "rect": {
         "x1": 35,
         "y1": 414,
         "x2": 59,
         "y2": 427
-      }
+      },
+      "value": "THE",
+      "label": ""
     },
     {
-      "value": "GREATER",
-      "label": "",
       "rect": {
         "x1": 58,
         "y1": 415,
         "x2": 102,
         "y2": 426
-      }
+      },
+      "value": "GREATER",
+      "label": ""
     },
     {
-      "value": "MEMPHIS",
-      "label": "",
       "rect": {
         "x1": 101,
         "y1": 415,
         "x2": 147,
         "y2": 426
-      }
+      },
+      "value": "MEMPHIS",
+      "label": ""
     },
     {
-      "value": "CHAMBER",
-      "label": "",
       "rect": {
         "x1": 146,
         "y1": 414,
         "x2": 195,
         "y2": 427
-      }
+      },
+      "value": "CHAMBER",
+      "label": ""
     },
     {
-      "value": "OF",
-      "label": "",
       "rect": {
         "x1": 192,
         "y1": 414,
         "x2": 209,
         "y2": 427
-      }
+      },
+      "value": "OF",
+      "label": ""
     },
     {
-      "value": "COMMERCE,",
-      "label": "",
       "rect": {
         "x1": 207,
         "y1": 415,
         "x2": 263,
         "y2": 427
-      }
+      },
+      "value": "COMMERCE,",
+      "label": ""
     },
     {
-      "value": "Al",
-      "label": "",
       "rect": {
         "x1": 261,
         "y1": 414,
         "x2": 272,
         "y2": 427
-      }
+      },
+      "value": "Al",
+      "label": ""
     },
     {
-      "value": "RECOGNIZED",
-      "label": "",
       "rect": {
         "x1": 270,
         "y1": 415,
         "x2": 331,
         "y2": 427
-      }
+      },
+      "value": "RECOGNIZED",
+      "label": ""
     },
     {
-      "value": "CHAMBER",
-      "label": "",
       "rect": {
         "x1": 331,
         "y1": 415,
         "x2": 377,
         "y2": 426
-      }
+      },
+      "value": "CHAMBER",
+      "label": ""
     },
     {
-      "value": "OF",
-      "label": "",
       "rect": {
         "x1": 376,
         "y1": 415,
         "x2": 392,
         "y2": 426
-      }
+      },
+      "value": "OF",
+      "label": ""
     },
     {
-      "value": "COMMERCE",
-      "label": "",
       "rect": {
-        "x1": 391,
+        "x1": 392,
         "y1": 415,
         "x2": 446,
         "y2": 427
-      }
+      },
+      "value": "COMMERCE",
+      "label": ""
     },
     {
-      "value": "UNDER",
-      "label": "",
       "rect": {
         "x1": 445,
         "y1": 415,
         "x2": 479,
         "y2": 426
-      }
+      },
+      "value": "UNDER",
+      "label": ""
     },
     {
-      "value": "THE",
-      "label": "",
       "rect": {
         "x1": 478,
         "y1": 414,
         "x2": 501,
         "y2": 427
-      }
+      },
+      "value": "THE",
+      "label": ""
     },
     {
-      "value": "LAWS",
-      "label": "",
       "rect": {
         "x1": 499,
         "y1": 414,
         "x2": 528,
         "y2": 427
-      }
+      },
+      "value": "LAWS",
+      "label": ""
     },
     {
-      "value": "OF",
-      "label": "",
       "rect": {
-        "x1": 527,
+        "x1": 528,
         "y1": 415,
         "x2": 542,
         "y2": 426
-      }
+      },
+      "value": "OF",
+      "label": ""
     },
     {
-      "value": "THE:",
-      "label": "",
       "rect": {
         "x1": 540,
         "y1": 414,
         "x2": 563,
         "y2": 427
-      }
+      },
+      "value": "THE:",
+      "label": ""
     },
     {
-      "value": "STATE",
-      "label": "",
       "rect": {
-        "x1": 561,
+        "x1": 562,
         "y1": 414,
         "x2": 593,
         "y2": 427
-      }
+      },
+      "value": "STATE",
+      "label": ""
     },
     {
-      "value": "OF",
-      "label": "",
       "rect": {
         "x1": 36,
         "y1": 425,
         "x2": 53,
         "y2": 438
-      }
+      },
+      "value": "OF",
+      "label": ""
     },
     {
-      "value": "TENNESSEE,",
-      "label": "",
       "rect": {
         "x1": 50,
         "y1": 426,
-        "x2": 108,
+        "x2": 107,
         "y2": 438
-      }
+      },
+      "value": "TENNESSEE,",
+      "label": ""
     },
     {
-      "value": "HAS",
-      "label": "",
       "rect": {
         "x1": 107,
         "y1": 425,
         "x2": 129,
         "y2": 438
-      }
+      },
+      "value": "HAS",
+      "label": ""
     },
     {
-      "value": "EXAMINED",
-      "label": "",
       "rect": {
         "x1": 128,
         "y1": 426,
         "x2": 178,
         "y2": 437
-      }
+      },
+      "value": "EXAMINED",
+      "label": ""
     },
     {
-      "value": "AMUEACTURERS",
-      "label": "",
       "rect": {
         "x1": 177,
         "y1": 426,
         "x2": 283,
         "y2": 438
-      }
+      },
+      "value": "AMUEACTURERS",
+      "label": ""
     },
     {
-      "value": "INVOICE",
-      "label": "",
       "rect": {
         "x1": 282,
         "y1": 425,
-        "x2": 323,
+        "x2": 324,
         "y2": 438
-      }
+      },
+      "value": "INVOICE",
+      "label": ""
     },
     {
-      "value": "OR:",
-      "label": "",
       "rect": {
         "x1": 320,
         "y1": 426,
         "x2": 338,
         "y2": 437
-      }
+      },
+      "value": "OR:",
+      "label": ""
     },
     {
-      "value": "SHIPPERS.",
-      "label": "",
       "rect": {
         "x1": 336,
         "y1": 426,
         "x2": 385,
         "y2": 437
-      }
+      },
+      "value": "SHIPPERS.",
+      "label": ""
     },
     {
-      "value": "AFFIDAVIT",
-      "label": "",
       "rect": {
         "x1": 383,
         "y1": 426,
         "x2": 434,
         "y2": 437
-      }
+      },
+      "value": "AFFIDAVIT",
+      "label": ""
     },
     {
-      "value": "CONCERNING",
-      "label": "",
       "rect": {
         "x1": 433,
         "y1": 426,
         "x2": 495,
         "y2": 438
-      }
+      },
+      "value": "CONCERNING",
+      "label": ""
     },
     {
-      "value": "THE",
-      "label": "",
       "rect": {
-        "x1": 493,
+        "x1": 494,
         "y1": 425,
         "x2": 517,
         "y2": 438
-      }
+      },
+      "value": "THE",
+      "label": ""
     },
     {
-      "value": "ORIGIN",
-      "label": "",
       "rect": {
         "x1": 515,
         "y1": 426,
         "x2": 549,
         "y2": 437
-      }
+      },
+      "value": "ORIGIN",
+      "label": ""
     },
     {
-      "value": "OFTHE",
-      "label": "",
       "rect": {
         "x1": 548,
         "y1": 425,
         "x2": 585,
         "y2": 438
-      }
+      },
+      "value": "OFTHE",
+      "label": ""
     },
     {
-      "value": "MERCHANDISE,",
-      "label": "",
       "rect": {
         "x1": 37,
         "y1": 437,
-        "x2": 108,
+        "x2": 107,
         "y2": 450
-      }
+      },
+      "value": "MERCHANDISE,",
+      "label": ""
     },
     {
-      "value": "AND,",
-      "label": "",
       "rect": {
         "x1": 106,
         "y1": 437,
         "x2": 132,
         "y2": 450
-      }
+      },
+      "value": "AND,",
+      "label": ""
     },
     {
-      "value": "ACOBDIY2SIMENSXO",
-      "label": "",
       "rect": {
-        "x1": 130,
+        "x1": 131,
         "y1": 436,
         "x2": 262,
         "y2": 451
-      }
+      },
+      "value": "ACOBDIY2SIMENSXO",
+      "label": ""
     },
     {
-      "value": "ITS",
-      "label": "",
       "rect": {
         "x1": 258,
         "y1": 437,
-        "x2": 278,
+        "x2": 277,
         "y2": 450
-      }
+      },
+      "value": "ITS",
+      "label": ""
     },
     {
-      "value": "KNOWLEDGE.",
-      "label": "",
       "rect": {
         "x1": 275,
         "y1": 437,
         "x2": 337,
         "y2": 450
-      }
+      },
+      "value": "KNOWLEDGE.",
+      "label": ""
     },
     {
-      "value": "AND!",
-      "label": "",
       "rect": {
-        "x1": 335,
+        "x1": 334,
         "y1": 437,
         "x2": 359,
         "y2": 450
-      }
+      },
+      "value": "AND!",
+      "label": ""
     },
     {
-      "value": "BELIEF,",
-      "label": "",
       "rect": {
-        "x1": 357,
+        "x1": 358,
         "y1": 437,
         "x2": 394,
         "y2": 450
-      }
+      },
+      "value": "BELIEF,",
+      "label": ""
     },
     {
-      "value": "FINDS\"",
-      "label": "",
       "rect": {
         "x1": 392,
         "y1": 437,
         "x2": 423,
         "y2": 450
-      }
+      },
+      "value": "FINDS\"",
+      "label": ""
     },
     {
-      "value": "THATTHE",
-      "label": "",
       "rect": {
         "x1": 420,
         "y1": 437,
         "x2": 470,
         "y2": 450
-      }
+      },
+      "value": "THATTHE",
+      "label": ""
     },
     {
-      "value": "PRODUCTS",
-      "label": "",
       "rect": {
         "x1": 469,
         "y1": 437,
         "x2": 520,
         "y2": 450
-      }
+      },
+      "value": "PRODUCTS",
+      "label": ""
     },
     {
-      "value": "NAMED",
-      "label": "",
       "rect": {
         "x1": 519,
         "y1": 438,
         "x2": 555,
         "y2": 449
-      }
+      },
+      "value": "NAMED",
+      "label": ""
     },
     {
-      "value": "ORIGINATED",
-      "label": "",
       "rect": {
         "x1": 37,
         "y1": 449,
         "x2": 97,
         "y2": 461
-      }
+      },
+      "value": "ORIGINATED",
+      "label": ""
     },
     {
-      "value": "IN",
-      "label": "",
       "rect": {
         "x1": 95,
         "y1": 449,
-        "x2": 108,
+        "x2": 107,
         "y2": 461
-      }
+      },
+      "value": "IN",
+      "label": ""
     },
     {
-      "value": "THE",
-      "label": "",
       "rect": {
         "x1": 107,
         "y1": 448,
-        "x2": 130,
+        "x2": 131,
         "y2": 461
-      }
+      },
+      "value": "THE",
+      "label": ""
     },
     {
-      "value": "UNTEDSDSOFAMERA",
-      "label": "",
       "rect": {
         "x1": 128,
         "y1": 447,
         "x2": 252,
         "y2": 462
-      }
+      },
+      "value": "UNTEDSDSOFAMERA",
+      "label": ""
     },
     {
-      "value": "da",
-      "label": "",
       "rect": {
         "x1": 26,
         "y1": 453,
         "x2": 144,
         "y2": 523
-      }
+      },
+      "value": "da",
+      "label": ""
     },
     {
-      "value": "d0",
-      "label": "",
       "rect": {
-        "x1": 130,
+        "x1": 131,
         "y1": 441,
         "x2": 257,
-        "y2": 524
-      }
+        "y2": 523
+      },
+      "value": "d0",
+      "label": ""
     },
     {
-      "value": "SWORN",
-      "label": "",
       "rect": {
         "x1": 313,
         "y1": 472,
         "x2": 351,
         "y2": 484
-      }
+      },
+      "value": "SWORN",
+      "label": ""
     },
     {
-      "value": "TO.",
-      "label": "",
       "rect": {
         "x1": 350,
         "y1": 472,
         "x2": 366,
         "y2": 484
-      }
+      },
+      "value": "TO.",
+      "label": ""
     },
     {
-      "value": "AND",
-      "label": "",
       "rect": {
         "x1": 363,
         "y1": 472,
         "x2": 388,
         "y2": 484
-      }
+      },
+      "value": "AND",
+      "label": ""
     },
     {
-      "value": "SUBSS",
-      "label": "",
       "rect": {
         "x1": 386,
         "y1": 472,
-        "x2": 414,
+        "x2": 413,
         "y2": 484
-      }
+      },
+      "value": "SUBSS",
+      "label": ""
     },
     {
-      "value": "56",
-      "label": "",
       "rect": {
         "x1": 422,
         "y1": 474,
-        "x2": 437,
+        "x2": 436,
         "y2": 482
-      }
+      },
+      "value": "56",
+      "label": ""
     },
     {
-      "value": "RR45",
-      "label": "",
       "rect": {
         "x1": 477,
         "y1": 470,
-        "x2": 505,
+        "x2": 504,
         "y2": 487
-      }
+      },
+      "value": "RR45",
+      "label": ""
     },
     {
-      "value": "Aug",
-      "label": "",
       "rect": {
         "x1": 503,
         "y1": 472,
         "x2": 523,
         "y2": 486
-      }
+      },
+      "value": "Aug",
+      "label": ""
     },
     {
-      "value": "2020",
-      "label": "",
       "rect": {
         "x1": 522,
         "y1": 472,
         "x2": 547,
         "y2": 484
-      }
+      },
+      "value": "2020",
+      "label": ""
     },
     {
-      "value": "State",
-      "label": "",
       "rect": {
         "x1": 430,
         "y1": 487,
         "x2": 456,
         "y2": 504
-      }
+      },
+      "value": "State",
+      "label": ""
     },
     {
-      "value": "ot",
-      "label": "",
       "rect": {
         "x1": 440,
         "y1": 502,
         "x2": 453,
         "y2": 514
-      }
+      },
+      "value": "ot",
+      "label": ""
     },
     {
-      "value": "Tennessee",
-      "label": "",
       "rect": {
         "x1": 421,
         "y1": 510,
         "x2": 477,
         "y2": 529
-      }
+      },
+      "value": "Tennessee",
+      "label": ""
     },
     {
-      "value": "E",
-      "label": "",
       "rect": {
         "x1": 439,
         "y1": 544,
         "x2": 453,
         "y2": 554
-      }
+      },
+      "value": "E",
+      "label": ""
     },
     {
-      "value": "elby",
-      "label": "",
       "rect": {
         "x1": 427,
         "y1": 552,
         "x2": 455,
         "y2": 568
-      }
+      },
+      "value": "elby",
+      "label": ""
     },
     {
-      "value": "Covs",
-      "label": "",
       "rect": {
         "x1": 456,
         "y1": 543,
         "x2": 492,
         "y2": 568
-      }
+      },
+      "value": "Covs",
+      "label": ""
     },
     {
-      "value": "sald",
-      "label": "",
       "rect": {
         "x1": 427,
         "y1": 575,
         "x2": 444,
         "y2": 586
-      }
+      },
+      "value": "sald",
+      "label": ""
     },
     {
-      "value": "or",
-      "label": "",
       "rect": {
         "x1": 442,
         "y1": 575,
         "x2": 452,
         "y2": 583
-      }
+      },
+      "value": "or",
+      "label": ""
     },
     {
-      "value": "NOTARY",
-      "label": "",
       "rect": {
-        "x1": 323,
+        "x1": 324,
         "y1": 529,
         "x2": 364,
         "y2": 542
-      }
+      },
+      "value": "NOTARY",
+      "label": ""
     },
     {
-      "value": "PUBLE,",
-      "label": "",
       "rect": {
         "x1": 362,
         "y1": 529,
         "x2": 401,
         "y2": 544
-      }
+      },
+      "value": "PUBLE,",
+      "label": ""
     },
     {
-      "value": "INAND",
-      "label": "",
       "rect": {
         "x1": 397,
         "y1": 528,
         "x2": 434,
         "y2": 544
-      }
+      },
+      "value": "INAND",
+      "label": ""
     },
     {
-      "value": "FNEMPAIS",
-      "label": "",
       "rect": {
         "x1": 432,
         "y1": 525,
         "x2": 502,
-        "y2": 546
-      }
+        "y2": 547
+      },
+      "value": "FNEMPAIS",
+      "label": ""
     },
     {
-      "value": "DATED.",
-      "label": "",
       "rect": {
         "x1": 314,
         "y1": 566,
         "x2": 348,
         "y2": 576
-      }
+      },
+      "value": "DATED.",
+      "label": ""
     },
     {
-      "value": "ATI",
-      "label": "",
       "rect": {
-        "x1": 346,
+        "x1": 345,
         "y1": 564,
         "x2": 364,
         "y2": 578
-      }
+      },
+      "value": "ATI",
+      "label": ""
     },
     {
-      "value": "MEMPISAEsRON:",
-      "label": "",
       "rect": {
         "x1": 360,
         "y1": 560,
         "x2": 481,
         "y2": 581
-      }
+      },
+      "value": "MEMPISAEsRON:",
+      "label": ""
     },
     {
-      "value": "ug",
-      "label": "",
       "rect": {
         "x1": 474,
         "y1": 563,
         "x2": 514,
         "y2": 581
-      }
+      },
+      "value": "ug",
+      "label": ""
     },
     {
-      "value": "2020",
-      "label": "",
       "rect": {
         "x1": 511,
         "y1": 564,
         "x2": 537,
         "y2": 578
-      }
+      },
+      "value": "2020",
+      "label": ""
     },
     {
-      "value": "SHELBY",
-      "label": "",
       "rect": {
-        "x1": 323,
+        "x1": 324,
         "y1": 541,
         "x2": 361,
         "y2": 554
-      }
+      },
+      "value": "SHELBY",
+      "label": ""
     },
     {
-      "value": "COUNTY",
-      "label": "",
       "rect": {
         "x1": 359,
         "y1": 541,
         "x2": 401,
         "y2": 554
-      }
+      },
+      "value": "COUNTY",
+      "label": ""
     },
     {
-      "value": "MARKS:",
-      "label": "",
       "rect": {
         "x1": 37,
         "y1": 676,
         "x2": 68,
         "y2": 686
-      }
+      },
+      "value": "MARKS:",
+      "label": ""
     },
     {
-      "value": "57031",
-      "label": "",
       "rect": {
         "x1": 36,
         "y1": 685,
         "x2": 61,
         "y2": 696
-      }
+      },
+      "value": "57031",
+      "label": ""
     },
     {
-      "value": "ST032",
-      "label": "",
       "rect": {
         "x1": 37,
         "y1": 694,
         "x2": 61,
         "y2": 705
-      }
+      },
+      "value": "ST032",
+      "label": ""
     },
     {
-      "value": "ST033",
-      "label": "",
       "rect": {
         "x1": 155,
         "y1": 685,
         "x2": 180,
         "y2": 696
-      }
+      },
+      "value": "ST033",
+      "label": ""
     },
     {
-      "value": "5T034",
-      "label": "",
       "rect": {
         "x1": 155,
         "y1": 694,
         "x2": 180,
         "y2": 705
-      }
+      },
+      "value": "5T034",
+      "label": ""
     },
     {
-      "value": "ST037",
-      "label": "",
       "rect": {
-        "x1": 244,
+        "x1": 243,
         "y1": 685,
         "x2": 269,
         "y2": 695
-      }
+      },
+      "value": "ST037",
+      "label": ""
     },
     {
-      "value": "ST038",
-      "label": "",
       "rect": {
-        "x1": 244,
+        "x1": 243,
         "y1": 694,
         "x2": 269,
         "y2": 705
-      }
+      },
+      "value": "ST038",
+      "label": ""
     },
     {
-      "value": "51039",
-      "label": "",
       "rect": {
         "x1": 329,
         "y1": 685,
         "x2": 355,
         "y2": 696
-      }
+      },
+      "value": "51039",
+      "label": ""
     },
     {
-      "value": "51040",
-      "label": "",
       "rect": {
         "x1": 330,
         "y1": 694,
         "x2": 355,
         "y2": 705
-      }
+      },
+      "value": "51040",
+      "label": ""
     },
     {
+      "rect": {
+        "x1": 416,
+        "y1": 684,
+        "x2": 441,
+        "y2": 697
+      },
       "value": "ST041",
-      "label": "",
-      "rect": {
-        "x1": 416,
-        "y1": 684,
-        "x2": 441,
-        "y2": 697
-      }
+      "label": ""
     },
     {
+      "rect": {
+        "x1": 416,
+        "y1": 694,
+        "x2": 441,
+        "y2": 705
+      },
       "value": "ST042",
-      "label": "",
-      "rect": {
-        "x1": 416,
-        "y1": 694,
-        "x2": 441,
-        "y2": 705
-      }
+      "label": ""
     },
     {
-      "value": "ST043",
-      "label": "",
       "rect": {
-        "x1": 505,
+        "x1": 504,
         "y1": 684,
         "x2": 530,
         "y2": 697
-      }
+      },
+      "value": "ST043",
+      "label": ""
     },
     {
-      "value": "STO44",
-      "label": "",
       "rect": {
-        "x1": 505,
+        "x1": 504,
         "y1": 694,
         "x2": 530,
         "y2": 705
-      }
+      },
+      "value": "STO44",
+      "label": ""
     }
   ]
 }

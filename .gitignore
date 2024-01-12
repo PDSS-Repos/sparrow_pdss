@@ -40,3 +40,7 @@ sparrow-ml/lemming/.idea/workspace.xml
 sparrow-ml/lemming/.idea/jupyter-settings.xml
 sparrow-data/donut/.idea/jupyter-settings.xml
 sparrow-ui/donut/.idea/jupyter-settings.xml
+sparrow-ui/donut/venv/*
+sparrow-ml/donut/venv/*
+sparrow-data/donut/venv/*
+sparrow-ml/donut/wandb/*
