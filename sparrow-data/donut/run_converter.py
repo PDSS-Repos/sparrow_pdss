@@ -6,7 +6,7 @@ import shutil
 def main():
     # Convert to sparrow format
     data_converter = DataConverter()
-    data_converter.convert_to_sparrow_format('sparrow-data/donut/docs/input/certificate_of_origin/ocr',
+    data_converter.convert_to_sparrow_format('sparrow-data/donut/docs/input/certificate_of_origin/processed/ocr',
                                              'sparrow-data/donut/docs/input/certificate_of_origin/output')
 
     # define the source and destination directory

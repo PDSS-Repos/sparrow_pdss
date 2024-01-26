@@ -6,12 +6,12 @@ import shutil
 
 def main():
     # Convert pdf to jpg
-    # pdf_converter = PDFConverter()
-    # pdf_converter.convert_to_jpg('docs/input/invoices/Dataset with valid information',
-    #                              'docs/input/invoices/processed/images')
+    pdf_converter = PDFConverter()
+    pdf_converter.convert_to_jpg('sparrow-data/donut/docs/input/certificate_of_origin/pdfs',
+                                 'sparrow-data/donut/docs/input/certificate_of_origin/processed/images')
 
     # define the source and destination directory
-    src_dir = 'sparrow-data/donut/docs/input/certificate_of_origin/images'
+    src_dir = 'sparrow-data/donut/docs/input/certificate_of_origin/processed/images'
     dst_dir = 'sparrow-ui/donut/docs/images'
 
     # Get list of files in source directory
@@ -25,7 +25,7 @@ def main():
 
     # OCR
     ocr_extractor = OCRExtractor('db_resnet50', 'crnn_vgg16_bn', pretrained=True)
-    ocr_extractor.extract('sparrow-data/donut/docs/input/certificate_of_origin', show_prediction=False)
+    ocr_extractor.extract('sparrow-data/donut/docs/input/certificate_of_origin/processed', show_prediction=False)
 
 if __name__ == '__main__':
     main()

@@ -1,4 +1,6 @@
-from tools.donut.metadata_generator import DonutMetadataGenerator
+# from tools.donut.metadata_generator import DonutMetadataGenerator
+from tools.donut.metadata_generator_docvqa import DonutMetadataGenerator
+
 from tools.donut.dataset_generator import DonutDatasetGenerator
 from pathlib import Path
 import os
@@ -7,10 +9,18 @@ import shutil
 
 def main():
     # define the source and destination directory
-    src_dir_json = 'sparrow-ui/donut/docs/json/key'
-    src_dir_img = 'sparrow-ui/donut/docs/images'
-    dst_dir_json = 'sparrow-data/donut/docs/models/donut/data/key'
-    dst_dir_img = 'sparrow-data/donut/docs/models/donut/data/key/img'
+    # src_dir_json = 'sparrow-ui/donut/docs/json/key'
+    # src_dir_img = 'sparrow-ui/donut/docs/images'
+    # dst_dir_json = 'sparrow-data/donut/docs/models/donut/data/key'
+    # dst_dir_img = 'sparrow-data/donut/docs/models/donut/data/key/img'
+    # src_dir_json = 'sparrow-ui/donut/docs/json/key'
+    # src_dir_img = 'sparrow-ui/donut/docs/images'
+    # dst_dir_json = 'sparrow-data/donut/docs/models/donut/data/key'
+    # dst_dir_img = 'sparrow-data/donut/docs/models/donut/data/key/img'
+    src_dir_json = r'C:\Users\julian.smidek\GitHub\sparrow_pdss\sparrow-ui/donut/docs/json/key'
+    src_dir_img = r'C:\Users\julian.smidek\GitHub\sparrow_pdss\sparrow-ui/donut/docs/images'
+    dst_dir_json = r'C:\Users\julian.smidek\GitHub\sparrow_pdss\sparrow-data/donut/docs/models/donut/data/key'
+    dst_dir_img = r'C:\Users\julian.smidek\GitHub\sparrow_pdss\sparrow-data/donut/docs/models/donut/data/key/img'
 
     # copy JSON files from src to dst
     files = os.listdir(src_dir_json)
@@ -29,7 +39,7 @@ def main():
             shutil.copy(src_file, dst_file)
 
     # Convert to Donut format
-    base_path = 'sparrow-data/donut/docs/models/donut/data'
+    base_path = r'C:\Users\julian.smidek\GitHub\sparrow_pdss\sparrow-data/donut/docs/models/donut/data'
     data_dir_path = Path(base_path).joinpath("key")
     files = data_dir_path.glob("*.json")
     files_list = [file for file in files]
