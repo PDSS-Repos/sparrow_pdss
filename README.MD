@@ -27,3 +27,7 @@ It implements various methods to extract data. Version 1 of Skipper was focused 
 ## License
 
 Licensed under the Apache License, Version 2.0. Copyright 2020-2023 Katana ML, Andrej Baranovskij. [Copy of the license](https://github.com/katanaml/sparrow/blob/main/LICENSE).
+
+## Run with Docker
+cd to root folder
+build docker image with docker image build -t sparrow_pdss .

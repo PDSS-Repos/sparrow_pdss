@@ -45,10 +45,15 @@ def main():
     files_list = [file for file in files]
     # split files_list array into 3 parts, 85% train, 10% validation, 5% test
     train_files_list = files_list[:int(len(files_list) * 0.85)]
+    # train_files_list = files_list[:int(len(files_list) * 1)]
+    # train_files_list = files_list[:int(len(files_list) * 1)]
     print("Train set size:", len(train_files_list))
+    # print(train_files_list)
     validation_files_list = files_list[int(len(files_list) * 0.85):int(len(files_list) * 0.95)]
+    # validation_files_list = train_files_list
     print("Validation set size:", len(validation_files_list))
     test_files_list = files_list[int(len(files_list) * 0.95):]
+    # test_files_list = train_files_list
     print("Test set size:", len(test_files_list))
 
     metadata_generator = DonutMetadataGenerator()

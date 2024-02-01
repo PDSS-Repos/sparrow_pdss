@@ -30,11 +30,12 @@ class DonutMetadataGenerator:
                                 _filename)
             with open(_features_path, "r") as json_file:
                 features = json.load(json_file)
+                text = json.dumps(features['ground_truth'])
                 json_file.close()   
 
                 if img_dir_path.joinpath(f"{file_name.stem}.jpg").is_file():
                     metadata_list.append({
-                        "ground_truth": features["ground_truth"],
+                        "ground_truth": text,
                         "query": features["query"], 
                         "answers": features["answers"],
                         "words": features["words"], 

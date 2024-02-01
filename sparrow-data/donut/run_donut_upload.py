@@ -5,7 +5,7 @@ def main():
     HfFolder.save_token('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')
 
     dataset_uploader = DonutDatasetUploader()
-    dataset_uploader.upload(r'C:/Users/julian.smidek/GitHub\sparrow_pdss\sparrow-data/donut/docs/models/donut/data', "juliansmidek/donut_test_docvqa")
+    dataset_uploader.upload(r'C:/Users/julian.smidek/GitHub\sparrow_pdss\sparrow-data/donut/docs/models/donut/data', "juliansmidek/donut_docvqa")
 
 if __name__ == '__main__':
     main()

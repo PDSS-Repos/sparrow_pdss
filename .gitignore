@@ -44,3 +44,8 @@ sparrow-ui/donut/venv/*
 sparrow-ml/donut/venv/*
 sparrow-data/donut/venv/*
 sparrow-ml/donut/wandb/*
+sparrow-data/donut/docs/input/certificate_of_origin/pdfs/*.pdf
+*.jpg
+*.json
+venv/*
+*.ckpt
